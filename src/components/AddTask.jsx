@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Input from "./input"; // Importa o componente Input para aplicar os estilos consistentes
+import Input from "./Input"; // Importa o componente Input para aplicar os estilos consistentes
 
 function AddTask({ onAddTaskSubmit }) {
   const [title, setTitle] = useState("");
@@ -24,7 +24,7 @@ function AddTask({ onAddTaskSubmit }) {
           if (!title.trim() || !description.trim()) {
             // trim() remove espaços em branco no início e no fim
             return alert(
-              "Por favor, preencha o título e a descrição da tarefa."
+              "Por favor, preencha o título e a descrição da tarefa.",
             );
           }
           onAddTaskSubmit(title, description);

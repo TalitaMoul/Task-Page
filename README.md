@@ -37,4 +37,5 @@ Este projeto foi desenvolvido para praticar o fluxo completo de um CRUD no front
 
 ## Autor
 **Desenvolvido por Talita Moulin**<br>
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talitamoul/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TalitaMoul)

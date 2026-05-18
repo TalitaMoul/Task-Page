@@ -19,7 +19,7 @@ Aplicação web de gerenciamento de tarefas com operações CRUD completas, dese
 
 
 ## Como rodar localmente
-***bash#*** Clone o repositório<br>
+### ***bash#*** Clone o repositório
 `git clone https://github.com/TalitaMoul/Task-Page.git`
 
 ## Acesse a pasta

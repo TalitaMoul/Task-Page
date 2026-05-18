@@ -19,21 +19,24 @@ Aplicação web de gerenciamento de tarefas com operações CRUD completas, dese
 
 
 ## Como rodar localmente
-### ***bash#*** Clone o repositório
+### Clone o repositório
 `git clone https://github.com/TalitaMoul/Task-Page.git`
 
-## Acesse a pasta
+### Acesse a pasta
 `cd Task-Page`
 
-## Instale as dependências
+### Instale as dependências
 `npm install`
 
-## Inicie o servidor de desenvolvimento
-`npm run dev`
+### Inicie o servidor de desenvolvimento
+`npm run dev`<br>
 Acesse *http://localhost:5173* no navegador.
 
-## Aprendizados
+### Aprendizados
 Este projeto foi desenvolvido para praticar o fluxo completo de um CRUD no front-end, incluindo gerenciamento de estado com hooks do React e persistência de dados com localStorage, sem depender de uma API externa.
 
 ## Autor
 **Desenvolvido por Talita Moulin**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talitamoul/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TalitaMoul)

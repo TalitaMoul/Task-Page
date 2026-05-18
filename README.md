@@ -30,6 +30,7 @@ Aplicação web de gerenciamento de tarefas com operações CRUD completas, dese
 
 ### Inicie o servidor de desenvolvimento
 `npm run dev`<br>
+
 Acesse *http://localhost:5173* no navegador.
 
 ### Aprendizados
